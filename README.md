@@ -1,5 +1,5 @@
-**Panel Update**\n
+**Panel Update**<br>
 ```bash <(curl -sSL https://raw.githubusercontent.com/Phyroks/pterodactyl/main/update-panel.sh)```
 
-**Wings Update**\n
+**Wings Update**<br>
 ```bash <(curl -sSL https://raw.githubusercontent.com/Phyroks/pterodactyl/main/update-wings.sh)```
